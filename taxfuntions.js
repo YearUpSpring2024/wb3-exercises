@@ -35,3 +35,5 @@ function getFederalTax(grossPay, withholdingCode) {
 getFederalTax(750, 0);
 getFederalTax(1550, 2);
 getFederalTax(1100, 6);
+
+
